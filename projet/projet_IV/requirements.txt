@@ -1,0 +1,11 @@
+ipykernel==6.29.4
+ipython==8.23.0
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+pillow==10.3.0
+# can be necessary
+# export SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
+scikit-learn==1.4.2
+scipy==1.13.0
+statsmodels==0.14.2
