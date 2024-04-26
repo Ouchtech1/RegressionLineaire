@@ -1,22 +1,19 @@
-bs4==0.0.2
-cufflinks==0.17.3
-# geopandas not mandatory
-geopandas==0.14.3
-ipykernel==6.29.4
-ipython==8.23.0
-# lxml not mandatory
-lxml==5.2.1
-matplotlib==3.8.4
-nbformat==5.10.4
-numpy==1.26.4
-pandas==2.2.2
-pillow==10.3.0
-requests==2.31.0
-# can be necessary
-# export SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
-scikit-learn==1.4.2
-scipy==1.13.0
-seaborn==0.13.2
-statsmodels==0.14.2
-
-
+attrs @ file:///private/tmp/python-attrs-20231125-8960-q2x3ov/attrs-23.1.0
+certifi @ file:///private/tmp/python-certifi-20231211-18680-kchg6g/certifi-2023.11.17
+cffi @ file:///private/tmp/cffi-20231015-5725-9apj93/cffi-1.16.0
+charset-normalizer @ file:///private/tmp/python-charset-normalizer-20231124-5299-z5exv9/charset-normalizer-3.3.2
+click @ file:///private/tmp/python-click-20231212-47372-zsrh/click-8.1.7
+idna @ file:///private/tmp/python-idna-20231125-5386-mo1t6z/idna-3.6
+Jinja2 @ file:///private/tmp/python-jinja-20231112-5526-5coeuq/Jinja2-3.1.2
+MarkupSafe @ file:///private/tmp/python-markupsafe-20231211-22257-79kdl2/MarkupSafe-2.1.3
+packaging @ file:///private/tmp/python-packaging-20231018-5614-osn4d8/packaging-23.2
+pathspec @ file:///private/tmp/python-pathspec-20231212-4876-dg57q1/pathspec-0.12.1
+platformdirs @ file:///private/tmp/python-platformdirs-20231204-5339-a11vnd/platformdirs-4.1.0
+psutil @ file:///private/tmp/python-psutil-20231015-5573-1gdptgy/psutil-5.9.6
+pycparser @ file:///private/tmp/pycparser-20231013-5761-icrp1n/pycparser-2.21
+Pygments @ file:///private/tmp/pygments-20231121-5322-nddh6n/pygments-2.17.2
+python-dateutil @ file:///private/tmp/python-dateutil-20231119-4998-lzvssw/python-dateutil-2.8.2
+PyYAML @ file:///private/tmp/pyyaml-20231019-5772-lz4nec/PyYAML-6.0.1
+requests @ file:///private/tmp/python-requests-20231124-5838-zi7va/requests-2.31.0
+six==1.16.0
+urllib3 @ file:///private/tmp/python-urllib3-20231124-5505-eqwjkx/urllib3-2.1.0
